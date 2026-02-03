@@ -55,4 +55,4 @@ A **Fase 2** do projeto se concentrará em calcular o **Score de Viabilidade Eco
 3.  Dados de Demanda/Consumo (COPEL/EPE).
 
 ---
-**Contato:** [Seu Email]
+**Contato:** docasdocas33@gmail.com
